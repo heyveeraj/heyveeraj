@@ -9,3 +9,6 @@ I'm a high school student on a coding journey, currently focused on learning Pyt
 
 🌠 To continue learning Python and expand my coding knowledge.
 🚀 To explore various coding domains to discover where my interests align within this vast field.
+
+💻 I've created a website called https://buddyforstudy4.wordpress.com to help students discover valuable study resources and YouTube educators.
+Feel free to check out my website to learn more about my coding journey and experiences
