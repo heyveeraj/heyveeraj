@@ -1,5 +1,5 @@
 Hello, I'm Veeraj! 👋
-I'm a high school student on a coding journey, currently focused on learning Python. Here's a bit about me:
+A high school student on a coding journey, currently focused on learning Python. Here's a bit about me:
 
 📚 My Passion: I'm deeply passionate about programming, and my current dedication is directed toward mastering Python.
 
