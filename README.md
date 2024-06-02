@@ -10,5 +10,5 @@ A high school student on a coding journey, currently focused on learning Python.
 🌠 To continue learning Python and expand my coding knowledge.
 🚀 To explore various coding domains to discover where my interests align within this vast field.
 
-💻 I've created a website called https://buddyforstudy4.wordpress.com to help students discover valuable study resources on YouTube educators.
+💻 I've created a website called https://artsystudy.wordpress.com to help students discover valuable study resources on YouTube educators.
 
